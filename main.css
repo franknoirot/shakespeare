@@ -1,0 +1,18 @@
+:root {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: calc(1em + .3vmin);
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+body {
+    width: 97vw;
+    padding: 10vmin 25vmin;
+    box-sizing: border-box;
+}
+
+body > * {
+    max-width: 100%;
+}
